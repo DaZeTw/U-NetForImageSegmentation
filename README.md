@@ -80,7 +80,7 @@ python u-netsegmentation.py
 
 ### Google Colab Notebook
 
-For an interactive version of this project, you can view and run the code in Google Colab: [Google Colab Notebook]([https://drive.google.com/file/d/1zHPCsRSwrSCzTfnrUMC1YcakywzPQ1YD/view?usp=sharing](https://drive.google.com/file/d/1zHPCsRSwrSCzTfnrUMC1YcakywzPQ1YD/view?usp=sharing))
+For an interactive version of this project, you can view and run the code in Google Colab: [Google Colab Notebook]([https://drive.google.com/file/d/1zHPCsRSwrSCzTfnrUMC1YcakywzPQ1YD/view?usp=sharing])
 
 ## Results
 
